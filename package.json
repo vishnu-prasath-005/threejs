@@ -1,0 +1,31 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnu-prasath-005/threejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnu-prasath-005/threejs/issues"
+  },
+  "homepage": "https://github.com/vishnu-prasath-005/threejs#readme",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "lil-gui": "^0.20.0",
+    "three": "^0.178.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.6",
+    "vite-plugin-restart": "^1.0.0"
+  }
+}
