@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import {OrbitControls} from "three/addons/controls/OrbitControls.js"
+import {OrbitControls} from "three/addons/controls/OrbitControls.js";
 /**
  * Base
  */
@@ -68,7 +68,7 @@ const tick = () => {
   // Update objects
   // mesh.rotation.y = elapsedTime;
 
-//   //   Update Camera
+  // Update Camera
   camera.position.x = cursor.x * 3;
   camera.position.y = cursor.y * 3;
 

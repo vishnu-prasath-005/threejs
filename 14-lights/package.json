@@ -1,0 +1,20 @@
+{
+  "name": "14-lights",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite ",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.178.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.6",
+    "vite-plugin-restart": "^1.0.0"
+  }
+}
